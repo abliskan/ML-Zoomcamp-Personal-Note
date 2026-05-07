@@ -68,3 +68,29 @@
 ### 2.16 Summary
 - Recap of key concepts
 - Best practices
+
+## Example Car Prediction using Linear Regression
+``` python
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+
+# Prepare the data
+X = df[['area', 'bedrooms']]
+y = df['price']
+
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Train the linear regression model
+model = LinearRegression()
+model.fit(X_train, y_train)
+```
+
+## Example Use the Model Prediction
+``` python
+# Predict house prices for new data
+new_data = pd.DataFrame({'area': [1500, 2000], 'bedrooms': [3, 4]})
+predicted_prices = model.predict(new_data)
+print('Predicted Prices:', predicted_prices)
+```
