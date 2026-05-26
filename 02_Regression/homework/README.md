@@ -34,20 +34,23 @@ Use only the following columns:
 
 There's one column with missing values. What is it?
 
-* `'engine_displacement'`
-* `'horsepower'`
-* `'vehicle_weight'`
-* `'model_year'`
+(1) `'engine_displacement'`
+(2) `'horsepower'`
+(3) `'vehicle_weight'`
+(4) `'model_year'`
 
+--> My Answer: option number 2
 
 ### Question 2
 
 What's the median (50% percentile) for variable `'horsepower'`?
 
-- 49
-- 99
-- 149
-- 199
+(1) 49
+(2) 99
+(3) 149
+(4) 199
+
+--> My Answer: option number 3
 
 ### Prepare and split the dataset
 
@@ -86,13 +89,11 @@ Options:
 If multiple options give the same best RMSE, select the smallest `r`.
 
 Options:
-
-- 0
-- 0.01
-- 1
-- 10
-- 100
-
+(1) 0
+(2) 0.01
+(3) 1
+(4) 10
+(5) 100
 
 ### Question 5 
 
