@@ -72,10 +72,11 @@ Use the same code as in the lectures
 
 Options:
 
-- With 0
-- With mean
-- Both are equally good
+(1) With 0
+(2) With mean
+(3) Both are equally good
 
+--> My Answer: option number 2
 
 ### Question 4
 
@@ -95,6 +96,8 @@ Options:
 (4) 10
 (5) 100
 
+--> My Answer: option number 2
+
 ### Question 5 
 
 * We used seed 42 for splitting the data. Let's find out how selecting the seed influences our score.
@@ -107,10 +110,12 @@ Options:
 
 What's the value of std?
 
-- 0.001
-- 0.006
-- 0.060
-- 0.600
+(1) 0.001
+(2) 0.006
+(3) 0.060
+(4) 0.600
+
+--> My Answer: option number 2
 
 > Note: Standard deviation shows how different the values are.
 > If it's low, then all values are approximately the same.
@@ -127,7 +132,9 @@ What's the value of std?
 
 Options:
 
-- 0.15
-- 0.515
-- 5.15
-- 51.5
+(1) 0.15
+(2) 0.515
+(3) 5.15
+(4) 51.5
+
+--> My Answer: option number 2
