@@ -34,10 +34,10 @@ Use only the following columns:
 
 There's one column with missing values. What is it?
 
-(1) `'engine_displacement'`
-(2) `'horsepower'`
-(3) `'vehicle_weight'`
-(4) `'model_year'`
+(1) `'engine_displacement'` <br>
+(2) `'horsepower'` <br>
+(3) `'vehicle_weight'` <br>
+(4) `'model_year'` <br>
 
 --> My Answer: option number 2
 
@@ -45,10 +45,10 @@ There's one column with missing values. What is it?
 
 What's the median (50% percentile) for variable `'horsepower'`?
 
-(1) 49
-(2) 99
-(3) 149
-(4) 199
+(1) 49 <br>
+(2) 99 <br>
+(3) 149 <br>
+(4) 199 <br>
 
 --> My Answer: option number 3
 
@@ -72,9 +72,9 @@ Use the same code as in the lectures
 
 Options:
 
-(1) With 0
-(2) With mean
-(3) Both are equally good
+(1) With 0 <br>
+(2) With mean <br>
+(3) Both are equally good <br>
 
 --> My Answer: option number 2
 
@@ -90,11 +90,11 @@ Options:
 If multiple options give the same best RMSE, select the smallest `r`.
 
 Options:
-(1) 0
-(2) 0.01
-(3) 1
-(4) 10
-(5) 100
+(1) 0 <br>
+(2) 0.01 <br>
+(3) 1 <br>
+(4) 10 <br>
+(5) 100 <br>
 
 --> My Answer: option number 2
 
@@ -110,10 +110,10 @@ Options:
 
 What's the value of std?
 
-(1) 0.001
-(2) 0.006
-(3) 0.060
-(4) 0.600
+(1) 0.001 <br>
+(2) 0.006 <br>
+(3) 0.060 <br>
+(4) 0.600 <br>
 
 --> My Answer: option number 2
 
@@ -132,9 +132,9 @@ What's the value of std?
 
 Options:
 
-(1) 0.15
-(2) 0.515
-(3) 5.15
-(4) 51.5
+(1) 0.15 <br>
+(2) 0.515 <br>
+(3) 5.15 <br>
+(4) 51.5 <br>
 
 --> My Answer: option number 2
